@@ -9,6 +9,7 @@ This repository contains four different machine learning projects that implement
 ├── K-means.ipynb
 ├── regression.ipynb
 ├── classification.ipynb
+├── svm_kernels.ipynb
 ├── README.md                        # This file
 ```
 
@@ -30,11 +31,17 @@ This repository contains four different machine learning projects that implement
    - **Dataset**: Vehicle dataset used for clustering tasks.
    - **Goal**: To cluster the data into `k` clusters and visualize the results.
 
-### 4. **Support Vector Machine (SVM):**
+### 4.1 **Support Vector Machine (SVM):**
    - **From Scratch**: Implements SVM using gradient descent from scratch.
    - **Scikit-learn**: Implements SVM using Scikit-learn's `SVC` class.
    - **Dataset**: Horse dataset used for binary classification.
    - **Goal**: To classify data into two classes using SVM.
+
+### 4.2 **Different SVM Kernels:**
+   - **Linear**: Implements SVM using Linear Kernel.
+   - **Quadratic**: Implements SVM using Quadratic Kernel.
+   - **RBF**: Implements SVM using RBF Kernel.
+   - **Goal**: To compare different svm kernels.
 
 ## Requirements
 
