@@ -7,6 +7,8 @@ This folder contains the datasets used across different machine learning project
 | **vehicle.csv**          | K-Means Clustering Model                            |
 | **horsesurgery.csv**     | Logistic Regression Model & Support Vector Machine (SVM) Model |
 | **houseprices.csv**      | Regression Model                                    |
+| **Social_Network_Ads.csv**      | SVM Kernels                                   |
+
 
 ---
 
@@ -20,3 +22,6 @@ This folder contains the datasets used across different machine learning project
 
 - **houseprices.csv**  
   A dataset containing real estate data, used for building a regression model to predict house prices.
+
+- **Social_Network_Ads.csv**  
+  A dataset containing 2 features to easily use different SVM Kernels
